@@ -1,0 +1,4 @@
+AppiumFramework\pageObjects\android\cartProduct.class
+AppiumFramework\pageObjects\android\FormPage.class
+AppiumFramework\pageObjects\android\ProductCatalogue.class
+AppiumFramework\pageObjects\android\AndroidActions.class

@@ -1,0 +1,9 @@
+Automation_mobile_AppiumFramework\DataProviders.class
+Automation_mobile_AppiumFramework\eCommerce_tc_04_hybrid.class
+AppiumFramework\utils\extentReportManager.class
+Automation_mobile_AppiumFramework\toastMessage.class
+AppiumFramework\utils\TestListener.class
+Automation_mobile_AppiumFramework\BaseCaseFrame.class
+AppiumFramework\utils\SearchHandler.class
+Automation_mobile_AppiumFramework\DataProviders$1.class
+AppiumFramework\utils\ContextSwitcher.class
